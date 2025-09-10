@@ -1,6 +1,10 @@
 # Byte-compiled / optimized / DLL files
 
-.gitignore:keys.json
+
+
+
+notebooks/keys.json
+
 
 __pycache__/
 *.py[codz]
