@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 
-/notebooks/keys.json
+/notebooks/keys.json/
 
 __pycache__/
 *.py[codz]
